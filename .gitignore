@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+# H2 database files
+taskflow-db*
+*.mv.db
+*.trace.db
